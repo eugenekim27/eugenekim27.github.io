@@ -1,0 +1,45 @@
+body {
+    background-color: grey;
+
+}
+
+h1 {
+    background-color: cyan;
+}
+
+h3 {
+    background-color: cyan;
+}
+
+#header {
+    position: center;
+    text-align: center;
+    left: center
+}
+
+#content {
+    position: absolute; top: 500px;
+    text-align: center
+}
+
+p {
+    color: pink;
+    font-size: large;
+    width: 525px;
+}
+
+#content2 {
+    position: absolute;
+    text-align: center;
+    
+    width: 525px;
+    left: 550px;
+    top: 500px
+}
+
+#ender {
+    position: absolute;
+    text-align: center;
+    top: 900px;
+    left: 300px
+}
